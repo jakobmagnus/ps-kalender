@@ -6,7 +6,6 @@ import Seo from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Start" />
     <h1>PS Kalender</h1>
     <p>Prenumerera på innehåll du är intresserad av till din kalender</p>
     <p>
