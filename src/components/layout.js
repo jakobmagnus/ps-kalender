@@ -18,13 +18,6 @@ const Layout = ({ children }) => {
   return (
     <>
         <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
-         Byggt av Agnes och Jakob för Shipit 2022
-        </footer>
     </>
   )
 }
